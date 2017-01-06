@@ -1,0 +1,7 @@
+verisetim=xlsread('veri.mat');
+
+
+
+
+
+
